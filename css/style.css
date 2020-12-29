@@ -1643,7 +1643,7 @@ input[type="radio"] .styled:checked+label::after {
 ---------------------------------------------------------------------*/
 
 .header {
-	background: #0fc690;
+	background: #2e9fdd;
 	padding: 40px 0px;
 	padding-bottom: 35px;
 }
